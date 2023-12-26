@@ -1,0 +1,25 @@
+.title{
+    text-align: center;
+    color: #2E3B5E;
+}
+/* .tecno{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    color: #2E3B5E;
+    margin-left: 30px;
+    padding: 50px;
+} */
+.container{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content:space-around;
+    color: #2E3B5E;
+    margin-left: 30px;
+    padding: 50px;
+}
+.col{
+    height: min-content;
+}

@@ -1,0 +1,25 @@
+.title{
+    text-align: center;
+    color: #2E3B5E;
+    font-size: 38px;
+}
+.mine{
+    color: #2E3B5E;
+    margin-left: 30px;
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.info{
+    background-color: #2E3B5E;
+    width: 500px;
+    height: 350px;
+    border-radius: 15px;
+}
+.pg{
+    color: #F9B03A;
+    margin-top: 30px;
+    margin-left: 30px;
+}

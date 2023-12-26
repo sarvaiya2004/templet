@@ -1,0 +1,40 @@
+.name{
+    text-align: center;
+    font-size: 28px;
+    color: #2E3B5E;
+    margin-top: 30px;
+    
+}
+.contein{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    color: #2E3B5E;
+    margin-left: 30px;
+    padding: 50px;
+}
+.image{
+   max-width: 100%;
+   padding: 50px;
+}
+.img1{
+    flex-basis: 50px;
+    min-width: 600px;
+}
+.pg-about{
+    color: #273f65;
+    font-size: 15px;
+}
+.pg-2{
+    text-align: center;
+    font-size: large;
+    margin-right: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+}
+.pg-3{
+    font-size: 18px;
+}

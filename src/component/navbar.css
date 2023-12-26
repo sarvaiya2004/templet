@@ -1,0 +1,31 @@
+
+nav{
+    background-color: white;
+    position: sticky;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 15px;
+    
+}
+.menubar{
+    display: flex;
+    
+}
+.bar{
+    color: #2E3B5E;
+    font-size: 19px;
+    display: flex;
+    padding: 4px 8px;
+    text-decoration: none;
+}
+
+.logo1{
+    text-decoration: none;
+    color: #2E3B5E;
+}
+
+
+
+
+
