@@ -13,7 +13,7 @@ const Home = () => {
             Together And<br></br>
             Grow Ahead <br></br></h3>
             <br />
-          <p  className='paragraph'  >
+          <p  className="bg-[#ffffff] p-4" >
             Our innovative IT soltion and services pave the way for<br></br>
             transformative development, Together,let,s leverage<br></br>
             technology to drive progress,empower communities,and<br></br>
