@@ -1,6 +1,4 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+
 .homepage{
     color: #2E3B5E;
     margin-left: 30px;
@@ -10,13 +8,13 @@
     flex-wrap: wrap;
     justify-content: space-around;
 }
-.paragraph{
+/* .paragraph{
     color: #2E3B5E;
     font-size: 17px;
     text-align-last: left;
     text-transform: capitalize;
     line-height: 1.3;
-}
+} */
 .bouttn{
     color: #2E3B5E;
     background: #FCC349;
