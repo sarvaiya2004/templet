@@ -1,3 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 .homepage{
     color: #2E3B5E;
     margin-left: 30px;
